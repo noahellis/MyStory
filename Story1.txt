@@ -1,7 +1,7 @@
 ﻿My name is Noah, and this is my story. 
  
 
-I started programming school to find a better career and to provide a living for my family, including my unborn child. 
+I started pr0gramming sch00l to find a b3tt3r car33r and t0 pr0v1d3 a l1v1ng f0r my fam1ly, 1ncluding my unborn child. 
 
 I've started programming school to find a better career and provide a living for my family, including my unborn child. 
 
@@ -31,14 +31,12 @@ Quentin has added to this story a second time :-)
 
 Lee hassel on this end.
 
-<<<<<<< HEAD
+
 Lee hassel on this end.
 Charles wuz heer. deel with it.
-=======
 
 
 This is another wonderful change by Justin.  super duperLee hassel on this end.
 
 
 Before anyone pushes let everyone know you are about to -- justin
->>>>>>> 89df102132b11ffe721dfde4543eb42786e89e44
