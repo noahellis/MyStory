@@ -1,12 +1,11 @@
 ﻿My name is Noah, and this is my story. 
  
-<<<<<<< HEAD
+
 
 I started programming school to find a better career and to provide a living for my family, including my unborn child. 
 
-=======
+
 I've started programming school to find a better career and provide a living for my family, including my unborn child. 
->>>>>>> f07ded234bb4d0b26e928a65e2a3ea57c7638e06
 
 I hope my income is high enough to support and provides me with the happiness I seek.   
 
@@ -14,14 +13,8 @@ This is my story thus far.
 
 This is Justin adding to Noah's story.  I am in this program for many of the same
 This is Derek Scheller's Edit.
-<<<<<<< HEAD
-
-=======
->>>>>>> f07ded234bb4d0b26e928a65e2a3ea57c7638e06
 
 This is Justin adding to Noah’s story.  I am in this program for many of the same
-<<<<<<< HEAD
-=======
 
 soon and give us a better life.
 THIS IS CHARLES HEAR ME ROAR (meow)
@@ -29,21 +22,14 @@ THIS IS CHARLES HEAR ME ROAR (meow)
 
 Justin Has fixed all the conflicts on his end.
 
->>>>>>> 6e08e49535da42de639f95c696a3913c821cabb0
+
 reasons that Noah is.  I am trying to get a better job so I can marry my girlfriend and provide for my young puppy.
 
-<<<<<<< HEAD
 
-=======
->>>>>>> f07ded234bb4d0b26e928a65e2a3ea57c7638e06
+
+
 THIS IS CHARLES HEAR ME ROAR (meow)
 
-Hi Noah, it is nice to meet you!
-<<<<<<< HEAD
-
-Quentin has added to this story a second time :-)
-=======
-
+Hi Noah, it is nice to meet you! Quentin has added to this story a second time :-)
 Lee hassel on this end.
 
->>>>>>> f07ded234bb4d0b26e928a65e2a3ea57c7638e06
