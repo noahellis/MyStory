@@ -1,22 +1,33 @@
-My name is Noah, and this is my story. 
- 
-=======
-I've started programming school to find a better career and provide a living for my family, including my unborn child. 
->>>>>>> 5441d02a73b3c702b805b7ec11f970e16fa28022
+﻿My name is Noah, and this is my story. 
 
-I hope my income is high enough to support and provides me with the happiness I seek for my family.   
+I started programming school to find a better career and to provide a living for my family, including my unborn child. 
+
+I hope my income is high enough to support and provides me with the happiness I seek.   
+
+I hope my income is high enough to support the family without the wife having to work, even though she will want to at some point I'm sure. 
 
 This is my story thus far. 
 
-<<<<<<< HEAD
+This is my story thus far. I too am in devCode to find a better career.
+
+This is Justin adding to Noah's story.  I am in this program for many of the same
 This is Derek Scheller's Edit.
-=======
-<<<<<<< HEAD
+
 
 This is Justin adding to Noah’s story.  I am in this program for many of the same
 
+soon and give us a better life.
+
+THIS IS CHARLES HEAR ME ROAR (meow)
+
+
+Justin Has fixed all the conflicts on his end.
+
+
+
 reasons that Noah is.  I am trying to get a better job so I can marry my girlfriend and provide for my young puppy.
 
+<<<<<<< HEAD
 =======
 THIS IS CHARLES HEAR ME ROAR (meow)
 <<<<<<< HEAD
@@ -26,14 +37,38 @@ THIS IS CHARLES HEAR ME ROAR (meow)
 
 This Is Peter M adding to Noah's Story
 =======
+=======
+>>>>>>> 410d0ab2bb240d7b93c023459a828d5902dfd5e0
 
 
 Hi Noah, it is nice to meet you!
-<<<<<<< HEAD
 
-=======
->>>>>>> 5441d02a73b3c702b805b7ec11f970e16fa28022
+Quentin has added to this story a second time :-)
+
+
 
 Lee hassel on this end.
+<<<<<<< HEAD
 >>>>>>> 90d35afa1eec7944f339fc5615a62103fc531150
 >>>>>>> 3fab9107d6a6f473df24fab8effa2d37f8842e9b
+=======
+
+
+
+
+Charles wuz heer. deel with it.
+
+
+This is another wonderful change by Justin.  super duperLee hassel on this end.
+
+
+Before anyone pushes let everyone know you are about to -- justin
+
+
+Here is another edit. 
+
+
+You guys hear about the two antenas that got married? Not much of a ceremony but the reception was great...
+
+oh I git it!
+>>>>>>> 410d0ab2bb240d7b93c023459a828d5902dfd5e0
