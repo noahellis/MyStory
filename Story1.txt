@@ -1,38 +1,22 @@
-My name is Noah, and this is my story. 
+﻿My name is Noah, and this is my story. 
  
-=======
 I've started programming school to find a better career and provide a living for my family, including my unborn child. 
->>>>>>> 5441d02a73b3c702b805b7ec11f970e16fa28022
 
 I hope my income is high enough to support and provides me with the happiness I seek for my family.   
 
-<<<<<<< HEAD
 This is my story thus far. I too am in devCode to find a better career.
-=======
-This is my story thus far. 
 
-<<<<<<< HEAD
 This is Derek Scheller's Edit.
-=======
-<<<<<<< HEAD
 
 This is Justin adding to Noah’s story.  I am in this program for many of the same
 
 reasons that Noah is.  I am trying to get a better job so I can marry my girlfriend and provide for my young puppy.
 
-=======
 THIS IS CHARLES HEAR ME ROAR (meow)
 
-
 Hi Noah, it is nice to meet you!
-<<<<<<< HEAD
-
-=======
->>>>>>> 5441d02a73b3c702b805b7ec11f970e16fa28022
-<<<<<<< HEAD
->>>>>>> f6bab50eae6ba80af25df8cee6c1132d84493d81
-=======
 
 Lee hassel on this end.
->>>>>>> 90d35afa1eec7944f339fc5615a62103fc531150
->>>>>>> 3fab9107d6a6f473df24fab8effa2d37f8842e9b
+
+Lee hassel on this end.
+
