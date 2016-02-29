@@ -1,18 +1,17 @@
-My name is Noah, and this is my story. 
+My name is Quentin, and this is my story. 
 
-I've started programming school to find a better carreer and provide a living for my family, including my unborn child. 
+I've started programming school to find a better career and provide a living for my family, including my pet dog. 
 
-I hope my income is high enough to support the family without the wife having to work, even though she will want to at some point I'm sure. 
+I hope my income is high enough to support and provides me with the happiness I seek.   
 
 This is my story thus far. 
 
 <<<<<<< HEAD
 
-This is Justin adding to Noah's story.  I am in this program for many of the same
+This is Justin adding to Quentin’s story.  I am in this program for many of the same
 
-reasons that Noah is.  I am trying to get a better job so I can marry my girlfriend
+reasons that Quentin is.  I am trying to get a better job so I can marry my girlfriend and provide for my young puppy.
 
-soon and give us a better life.
 =======
 THIS IS CHARLES HEAR ME ROAR (meow)
 >>>>>>> ec8ef08d60dc144a243284b8e8a48b79eefb959a
