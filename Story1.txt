@@ -1,24 +1,25 @@
-My name is Quentin, and this is my story. 
-
-<<<<<<< HEAD
-I've started programming school to find a better career and provide a living for my family, including my pet dog. 
+My name is Noah, and this is my story. 
+ 
 =======
 I've started programming school to find a better career and provide a living for my family, including my unborn child. 
 >>>>>>> 5441d02a73b3c702b805b7ec11f970e16fa28022
 
-I hope my income is high enough to support and provides me with the happiness I seek.   
+I hope my income is high enough to support and provides me with the happiness I seek for my family.   
 
 This is my story thus far. 
 
 <<<<<<< HEAD
+This is Derek Scheller's Edit.
+=======
+<<<<<<< HEAD
 
-This is Justin adding to Quentin’s story.  I am in this program for many of the same
+This is Justin adding to Noah’s story.  I am in this program for many of the same
 
-reasons that Quentin is.  I am trying to get a better job so I can marry my girlfriend and provide for my young puppy.
+reasons that Noah is.  I am trying to get a better job so I can marry my girlfriend and provide for my young puppy.
 
 =======
 THIS IS CHARLES HEAR ME ROAR (meow)
->>>>>>> ec8ef08d60dc144a243284b8e8a48b79eefb959a
 
 
 Hi Noah, it is nice to meet you!
+
