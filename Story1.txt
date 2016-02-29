@@ -31,5 +31,14 @@ Quentin has added to this story a second time :-)
 
 Lee hassel on this end.
 
+<<<<<<< HEAD
 Lee hassel on this end.
 Charles wuz heer. deel with it.
+=======
+
+
+This is another wonderful change by Justin.  super duperLee hassel on this end.
+
+
+Before anyone pushes let everyone know you are about to -- justin
+>>>>>>> 89df102132b11ffe721dfde4543eb42786e89e44
