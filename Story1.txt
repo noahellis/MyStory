@@ -38,7 +38,20 @@ Quentin has added to this story a second time :-)
 
 Lee hassel on this end.
 
+<<<<<<< HEAD
 Lee hassel on this end.
+<<<<<<< HEAD
 
 
 You guys hear about the two antenas that got married? Not much of a ceremony but the reception was great...
+=======
+Charles wuz heer. deel with it.
+=======
+
+
+This is another wonderful change by Justin.  super duperLee hassel on this end.
+
+
+Before anyone pushes let everyone know you are about to -- justin
+>>>>>>> 89df102132b11ffe721dfde4543eb42786e89e44
+>>>>>>> 37f76892b88ce6d19e92ca8619aa8678da38d846
