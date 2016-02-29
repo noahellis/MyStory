@@ -36,8 +36,12 @@ Hi Noah, it is nice to meet you!
 Quentin has added to this story a second time :-)
 
 
+
 Lee hassel on this end.
 
+
+
+>>>>>>> faceca4a1352d8158d64e2960d2fef6ffac305e8
 Lee hassel on this end.
 Charles wuz heer. deel with it.
 
@@ -46,5 +50,8 @@ This is another wonderful change by Justin.  super duperLee hassel on this end.
 
 
 Before anyone pushes let everyone know you are about to -- justin
+<<<<<<< HEAD
 
 Here is another edit. 
+=======
+>>>>>>> faceca4a1352d8158d64e2960d2fef6ffac305e8
