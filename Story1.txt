@@ -12,6 +12,7 @@ I hope my income is high enough to support and provides me with the happiness I 
 
 This is my story thus far. 
 
+This is Justin adding to Noah's story.  I am in this program for many of the same
 This is Derek Scheller's Edit.
 <<<<<<< HEAD
 
@@ -19,6 +20,16 @@ This is Derek Scheller's Edit.
 >>>>>>> f07ded234bb4d0b26e928a65e2a3ea57c7638e06
 
 This is Justin adding to Noah’s story.  I am in this program for many of the same
+<<<<<<< HEAD
+=======
+
+soon and give us a better life.
+THIS IS CHARLES HEAR ME ROAR (meow)
+
+
+Justin Has fixed all the conflicts on his end.
+
+>>>>>>> 6e08e49535da42de639f95c696a3913c821cabb0
 reasons that Noah is.  I am trying to get a better job so I can marry my girlfriend and provide for my young puppy.
 
 <<<<<<< HEAD
