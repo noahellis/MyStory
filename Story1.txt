@@ -1,6 +1,6 @@
 My name is Noah, and this is my story. 
 
-I've started programming school to find a better carreer and provide a living for my family, including my unborn child. 
+I've started programming school to find a better career and provide a living for my family, including my unborn child. 
 
 I hope my income is high enough to support the family without the wife having to work, even though she will want to at some point I'm sure. 
 
@@ -19,4 +19,10 @@ soon and give us a better life.
 =======
 THIS IS CHARLES HEAR ME ROAR (meow)
 >>>>>>> ec8ef08d60dc144a243284b8e8a48b79eefb959a
+<<<<<<< HEAD
 >>>>>>> 0b54a886f1dd2bc23901faeee9fe1e830cff11f4
+=======
+
+
+Hi Noah, it is nice to meet you!
+>>>>>>> 5441d02a73b3c702b805b7ec11f970e16fa28022
